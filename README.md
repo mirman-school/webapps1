@@ -1,5 +1,5 @@
 # Web Apps I
-*A Mirman School class*
+*A [Mirman School](https://mirman.org) class*
 
 ## My first repository
 
