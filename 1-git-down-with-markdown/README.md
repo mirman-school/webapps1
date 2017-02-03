@@ -10,4 +10,4 @@ Using Markdown, create a file called `index.md` inside this folder. Then, create
 Use images to spice up your Markdown!
 
 ### MD → HTML
-Can you figure out how to turn Markdown into HTML? Maybe there's an Atom plugin that will help.
+Can you figure out how to turn Markdown into HTML? Maybe there's an Atom plugin that will help!
