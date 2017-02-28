@@ -1,0 +1,12 @@
+/*
+  This will get rid of some annoying pre-loading margin/padding
+*/
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+/*
+  Now, your CSS
+*/
